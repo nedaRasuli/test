@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+html , body {
+	height: 100%;
+}
+
+.wrapper{
+	height: auto;
+	background:red;
+}
+.header-nr{
+	height:110px;
+	
+
+}
+.slider-nr{
+	height:500px;
+	;
+	background:blue;
+}
+.link-box-nr{
+	overflow:hidden
+}
+.link-box-content-nr{
+	height:200px;
+	;
+	background:green;
+}
+.not-float{
+		float:none;
+}
+.margin-auto{
+	margin: 0 auto;
+}
+.categoris-box {
+	height:400px;
+	background:yellow
+}
